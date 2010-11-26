@@ -13,7 +13,5 @@
 
 <?php include("main.php"); ?>
 
-test
-
 </body>
 </html>
